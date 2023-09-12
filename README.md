@@ -201,8 +201,9 @@ No response body.
 ```
 
 ## Known Limitations and Assumptions
-The API assumes that each person has a unique name.
-No authentication or authorization mechanisms are implemented in this version of the API.
+-The API assumes that each person has a unique name.
+
+-No authentication or authorization mechanisms are implemented in this version of the API.
 
 ## Setup and Deployment
 
