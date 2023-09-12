@@ -100,7 +100,7 @@ This API allows you to manage a collection of persons. You can create, retrieve,
     ```
 - **cURL Format:**
   ```sh
-  curl -X PUT -H "Content-Type: application/json" -d '{"name": "New Name"}' https://crud-api-lc1h.onrender.com/api/1
+  curl -X PUT -H "Content-Type: application/json" -d '{"name": "Henry Hart"}' https://crud-api-lc1h.onrender.com/api/1
   ```
 
 #### Response Format
