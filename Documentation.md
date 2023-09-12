@@ -27,7 +27,7 @@ This API allows you to manage a collection of persons. You can create, retrieve,
 
 #### Request Format
 - **Postman and Search Engine Format:**
-  - URL: `https://crud-api-lc1h.onrender.com//api/`
+  - URL: `https://crud-api-lc1h.onrender.com/api/`
   - Headers: 
     - Content-Type: application/json
   - Body (JSON):
